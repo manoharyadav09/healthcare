@@ -1,0 +1,27 @@
+.medication-orders-list {
+    margin-top: 20px;
+}
+
+.order-items ul {
+    padding-left: 20px;
+    margin-top: 10px;
+}
+
+.order-items li {
+    margin-bottom: 5px;
+}
+
+.badge-pending {
+    background-color: #f8961e;
+    color: white;
+}
+
+.badge-completed {
+    background-color: #4ad66d;
+    color: white;
+}
+
+.badge-cancelled {
+    background-color: #f94144;
+    color: white;
+}
